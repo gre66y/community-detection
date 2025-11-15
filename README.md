@@ -1,8 +1,8 @@
-Community Detection Analysis
+**Community Detection Analysis**
 
 This repository contains Python scripts and output files developed for a community detection research project. The goal is to analyze structural patterns in complex networks and compare the performance of different detection approaches.
 
-Overview
+**Overview**
 
 The project includes two primary scripts:
 
@@ -19,7 +19,7 @@ Output: Comprehensive_results — combined metrics and comparative analysis acro
 
 Together, these scripts form a modular pipeline for network preprocessing, community detection, metric calculation, and results export.
 
-Features
+**Features**
 
 Classical and hybrid community detection approaches
 
@@ -31,7 +31,7 @@ Comparative evaluation of algorithms
 
 Clean, reproducible output files
 
-Requirements
+**Requirements**
 
 Install the required Python libraries:
 
@@ -40,7 +40,7 @@ pip install networkx pandas numpy matplotlib
 
 Additional libraries may be needed depending on dataset or analysis extensions.
 
-Usage
+**Usage**
 
 Run the SNA-based script:
 
@@ -54,8 +54,7 @@ python Comprehensive_Results_SSGA.py
 
 Ensure your dataset is placed in the expected directory or modify the script paths accordingly.
 
-Applications
-
+**Applications**
 Social network analysis
 
 Communication and interaction networks
@@ -64,6 +63,6 @@ Citation graphs
 
 Any graph structure requiring community detection insights
 
-License
+**License**
 
 This project is released for academic and research use. Update licensing terms if needed.
